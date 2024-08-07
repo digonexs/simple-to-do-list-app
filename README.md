@@ -8,7 +8,7 @@ Uma aplicação simples de Lista de Tarefas construída usando HTML, CSS e JavaS
 
 ## 🚀 Demonstração
 
-Você pode ver a aplicação em funcionamento [aqui](https://digonexs.github.io/simple-to-do-list-app).
+Você pode ver a aplicação em funcionamento [aqui](https://digonexs.github.io/simple-to-do-list-app/).
 
 ## 📋 Funcionalidades
 
