@@ -8,7 +8,7 @@ Uma aplicação simples de Lista de Tarefas construída usando HTML, CSS e JavaS
 
 ## 🚀 Demonstração
 
-Você pode ver a aplicação em funcionamento [aqui](https://digonexs.github.io/simple-to-do-list-app/).
+Você pode ver a aplicação em funcionamento [aqui](https://digonexs.github.io/simple-to-do-list-app).
 
 ## 📋 Funcionalidades
 
@@ -47,3 +47,29 @@ Compatível com os principais navegadores:
 ├── styles.css
 └── script.js
 ```
+
+## 📦 Como Usar
+
+Clone o repositório:
+
+```bash
+git clone https://github.com/digonexs/simple-to-do-list-app
+```
+
+Navegue até o diretório do projeto:
+
+```bash
+cd simple-to-do-list-app
+```
+
+Abra o arquivo index.html em seu navegador preferido.
+
+## 👨‍💻 Contribuindo
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e enviar pull requests. Para mudanças maiores, abra uma issue primeiro para discutir o que você gostaria de mudar.
+
+## 📝 Licença
+
+Este projeto está licenciado sob a Licença MIT.
+
+Feito com ❤️ por [Rodrigo](https://www.linkedin.com/in/rodrigocavalcantedebarros/).
